@@ -1,0 +1,8 @@
+﻿  Indiv_lab1.cpp
+C:\Users\svtko\OneDrive\Робочий стіл\Лабии\C++\Indiv_lab1\Indiv_lab1\Indiv_lab1.cpp(13,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\svtko\OneDrive\Робочий стіл\Лабии\C++\Indiv_lab1\Indiv_lab1\Indiv_lab1.cpp(14,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\svtko\OneDrive\Робочий стіл\Лабии\C++\Indiv_lab1\Indiv_lab1\Indiv_lab1.cpp(22,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\svtko\OneDrive\Робочий стіл\Лабии\C++\Indiv_lab1\Indiv_lab1\Indiv_lab1.cpp(25,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\svtko\OneDrive\Робочий стіл\Лабии\C++\Indiv_lab1\Indiv_lab1\Indiv_lab1.cpp(26,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\svtko\OneDrive\Робочий стіл\Лабии\C++\Indiv_lab1\Indiv_lab1\Indiv_lab1.cpp(29,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Indiv_lab1.vcxproj -> C:\Users\svtko\OneDrive\Робочий стіл\Лабии\C++\Indiv_lab1\x64\Debug\Indiv_lab1.exe
